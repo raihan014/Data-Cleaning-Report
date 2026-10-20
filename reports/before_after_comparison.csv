@@ -1,0 +1,5 @@
+Metric,Before Cleaning,After Cleaning
+Number of rows,32561,32537
+Number of columns,15,15
+Missing cells,4262,0
+Duplicate rows,24,0

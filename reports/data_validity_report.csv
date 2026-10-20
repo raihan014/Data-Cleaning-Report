@@ -1,0 +1,10 @@
+Validation Check,Invalid Records,Status
+Age below 17,0,PASS
+Age above 100,0,PASS
+Non-positive fnlwgt,0,PASS
+Education number below 1,0,PASS
+Education number above 16,0,PASS
+Negative capital gain,0,PASS
+Negative capital loss,0,PASS
+Hours per week below 1,0,PASS
+Hours per week above 168,0,PASS

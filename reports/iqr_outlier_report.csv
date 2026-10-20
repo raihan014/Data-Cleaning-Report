@@ -1,0 +1,7 @@
+Column,Q1,Q3,IQR,Lower Bound,Upper Bound,Outlier Count,Outlier Percentage
+age,28.0,48.0,20.0,-2.0,78.0,142,0.44
+fnlwgt,117827.0,236993.0,119166.0,-60922.0,415742.0,993,3.05
+education_num,9.0,12.0,3.0,4.5,16.5,1193,3.67
+capital_gain,0.0,0.0,0.0,0.0,0.0,2712,8.34
+capital_loss,0.0,0.0,0.0,0.0,0.0,1519,4.67
+hours_per_week,40.0,45.0,5.0,32.5,52.5,9002,27.67

@@ -1,0 +1,16 @@
+column,data_type,missing_count,missing_percentage,unique_values
+age,int64,0,0.0,73
+workclass,str,1836,5.64,8
+fnlwgt,int64,0,0.0,21648
+education,str,0,0.0,16
+education_num,int64,0,0.0,16
+marital_status,str,0,0.0,7
+occupation,str,1843,5.66,14
+relationship,str,0,0.0,6
+race,str,0,0.0,5
+sex,str,0,0.0,2
+capital_gain,int64,0,0.0,119
+capital_loss,int64,0,0.0,92
+hours_per_week,int64,0,0.0,94
+native_country,str,583,1.79,41
+income,str,0,0.0,2
